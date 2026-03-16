@@ -3,6 +3,11 @@ using namespace std;
 using namespace sf;
 
 
+//TODO : [] Listen to dda yotube video 
+//       [] Try out the math on paper first
+//       [] Implement the dda and remove he old intersection logic
+//       [] also try to use this in the F1 project if possible 
+// 
 
 
 int main() {
